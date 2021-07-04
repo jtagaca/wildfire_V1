@@ -9,4 +9,16 @@ This was a personal project built with React.JS and deployed via AWS amplify. Th
       height=500px 
    />
 
+<img 
+      src="/public/images/2wf.png" 
+      height=500px 
+   />
+   <img 
+      src="/public/images/3wf.png" 
+      height=500px 
+   />
+   <img 
+      src="/public/images/4wf.png" 
+      height=500px 
+   />
 
