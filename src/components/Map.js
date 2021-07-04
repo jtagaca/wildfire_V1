@@ -6,7 +6,7 @@ import LocationInfoBox from "./LocationInfoBox";
 // define constants
 const API_Key = `${process.env.REACT_APP_MAP_API}`;
 
-console.log(API_Key);
+// console.log(API_Key);
 // console.log(process.env);
 const NATURAL_EVENT_WILDFIRE = 8;
 // const NATURAL_EVENT_STORM = 10;
