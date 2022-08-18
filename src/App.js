@@ -11,6 +11,7 @@ function App() {
   useEffect(() => {
     const fetchEvents = async () => {
       setLoading(true)
+      //forcing deployment
       const res = await fetch('https://eonet.gsfc.nasa.gov/api/v2.1/events')
       
       // destruct the events array out of the NASA response
